@@ -1,0 +1,15 @@
+this pro is use to test the datax,my git has problem,so i ..
+
+1:download datax ,cd /bin.there is a datax.py;
+2:python datax.py ../job/demo.json(like other to json)
+
+3:there only mysql to mysql;cos my server has pro,so>>when i have time;
+
+
+4:thanks https://github.com/alibaba/DataX
+
+(two table)
+{
+table test(id(int),name(varchar)){222,"linkingli"}
+table test2(id2(int),name2(varchar)){2222,"linkingli2"}
+}

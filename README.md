@@ -1,2 +1,3 @@
 # dataxmysql
-自花授粉
+datax memory to mysql;
+datax mysql to mysql;
